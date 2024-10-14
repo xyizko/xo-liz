@@ -9,5 +9,7 @@ Index of various custom licenses
 
 Licese | DescriptIOn
 --- | --- 
-[`L1`](./liz/L1.MD) | Governing Lincese for software releases
+[`L1`](./liz/L1.MD) | [License 1](./liz/L1.MD)
+[`L2`](./liz/L2.MD) | [License 2](./liz/L2.MD)
+
 
